@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageSearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_prompt">Enter search query</string>
+    <string name="search_button">Search</string>
+    <string name="image_title_lable">Image Title</string>
+    <string name="title_activity_image_display">Full Image</string>
+    <string name="title_activity_filter">FilterActivity</string>
+    <string name="tvImageLableText">Image Size</string>
+    <string name="ImageColorLable">Color Filter</string>
+    <string name="etImageColor">Image Color</string>
+    <string name="ImageSizeLable">Image Size</string>
+    <string name="etImageSize">Image Size</string>
+    <string name="tvImageTypeLable">Image Type</string>
+    <string name="etImageType">Image Type</string>
+    <string name="tvSiteFilterLable">Site Filter</string>
+    <string name="etSiteFilter">google.com</string>
+    <string name="BtnSubmitFilter">Apply</string>
+    <string name="btnResetFilter">Reset</string>
+    <string name="SearchFiltersHeader">Search Filters</string>
+
+    <string-array name="imageSize_array">
+            <item>any</item>
+            <item>small</item>
+            <item>medium</item>
+            <item>large</item>
+            <item>xlarge</item>
+        </string-array>
+
+    <string-array name="imageColor_array">
+        <item>any</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>red</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+
+    <string-array name="imageType_array">
+        <item>any</item>
+        <item>jpg</item>
+        <item>png</item>
+        <item>gif</item>
+        <item>bmp</item>
+    </string-array>
+
+</resources>
